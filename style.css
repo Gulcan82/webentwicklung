@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(to left,#6DD5FA, #FFFFFF); /* Farbverlauf von Blau zu Weiß */
+    font-family: Arial, sans-serif; /* Fallschriftart */
+    color: #333; /* Textfarbe */
+}
+
+
+#zitatgenerator {
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
